@@ -1,16 +1,13 @@
-## Hi there 👋
+### bem vindo 🦿
 
-<!--
-**tallissio51/tallissio51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e tallissio51
 
-Here are some ideas to get you started:
+sou aluno do colegio professores,
+sou do enino medio
+utilizo esse espaço para minha organizaçao e compartilhamento de desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+meu endereço de email
+s.marcondes@escola.pr.gov.br
+
+
+![](https://media1.tenor.com/m/SxSsr70MjlcAAAAd/romero-angel-romero.gif)
